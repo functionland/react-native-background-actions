@@ -1,5 +1,5 @@
 {
-  "name": "react-native-background-actions",
+  "name": "@functionland/react-native-background-actions",
   "version": "3.0.1",
   "description": "React Native background service library for running background tasks forever in Android & iOS",
   "keywords": [

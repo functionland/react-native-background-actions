@@ -47,7 +47,7 @@ Go to [INSTALL.md](./INSTALL.md) to see the how to install, compatibility with R
 ### Example Code
 
 ```js
-import BackgroundService from 'react-native-background-actions';
+import BackgroundService from '@functionland/react-native-background-actions';
 
 const sleep = (time) => new Promise((resolve) => setTimeout(() => resolve(), time));
 
